@@ -4,7 +4,7 @@ tags: [Algorithm]
 ---
 
 ### 다음과 같이 숫자로 이루어진 배열이 있을 때, 이 배열 내에서 가장 큰 수를 반환하시오.
-
+#### 📌 : find_max_num
 ``` python
 def find_max_num(array):
     # 이 부분을 채워보세요!
